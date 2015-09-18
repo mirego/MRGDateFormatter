@@ -1,6 +1,6 @@
 # MRGDateFormatter
 
-[![CI Status](http://img.shields.io/travis/mirego/MRGDateFormatter.svg?style=flat)](https://travis-ci.org/Mirego/MRGDateFormatter)
+[![CI Status](http://img.shields.io/travis/mirego/MRGDateFormatter.svg?style=flat)](https://travis-ci.org/mirego/MRGDateFormatter)
 [![Version](https://img.shields.io/cocoapods/v/MRGDateFormatter.svg?style=flat)](http://cocoadocs.org/docsets/MRGDateFormatter)
 [![License](https://img.shields.io/cocoapods/l/MRGDateFormatter.svg?style=flat)](http://cocoadocs.org/docsets/MRGDateFormatter)
 [![Platform](https://img.shields.io/cocoapods/p/MRGDateFormatter.svg?style=flat)](http://cocoadocs.org/docsets/MRGDateFormatter)
