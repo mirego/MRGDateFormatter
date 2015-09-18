@@ -21,7 +21,7 @@ pod 'MRGDateFormatter', :git => 'https://github.com/mirego/MRGDateFormatter.iOS.
 
 MRGDateFormatter is © 2014-2015 [Mirego](http://www.mirego.com) and may be freely
 distributed under the [New BSD license](http://opensource.org/licenses/BSD-3-Clause).
-See the [`LICENSE.md`](https://github.com/mirego/MRGDateFormatter.iOS/blob/master/LICENSE.md) file.
+See the [`LICENSE`](https://github.com/mirego/MRGDateFormatter.iOS/blob/master/LICENSE) file.
 
 ## About Mirego
 
