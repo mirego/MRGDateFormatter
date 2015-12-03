@@ -7,93 +7,136 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3169D113E2558D19739BA13B88C60127 /* MRGDateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9614780AFE81E6BDA065D8594CEBCE /* MRGDateFormatter.m */; };
-		37152A2C298972E886B7282A7F1D9D8B /* MRGDateFormatter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A4415ECA20D7EF82FAD5335FD5592E /* MRGDateFormatter-dummy.m */; };
-		59492E0EED9AE7C9303691B4D6EFA052 /* Pods-MRGDateFormatter_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F9533247A2084DC53A763696540E17DB /* Pods-MRGDateFormatter_Tests-dummy.m */; };
-		6448A00DB8CAA7C259F7C2167BB82A42 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 524B195D2AF201E915CCAE03D6BBC2C7 /* Foundation.framework */; };
-		81CCCA6457DC2480C620A68E9A3BE461 /* Pods-MRGDateFormatter_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A0FCFCF73188A5E69941D91EB4C2B0 /* Pods-MRGDateFormatter_Example-dummy.m */; };
-		C1E42EC1A79864136D2070D6979692D7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 524B195D2AF201E915CCAE03D6BBC2C7 /* Foundation.framework */; };
-		CC8B73E4C28DA5251B59C0539899FFA2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 524B195D2AF201E915CCAE03D6BBC2C7 /* Foundation.framework */; };
-		D42A6C66581237E90047E2BB70490361 /* MRGDateFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 1B61F2CB93B536726E021D3FE0E3A850 /* MRGDateFormatter.h */; };
+		5D3F993D5FE1714EAD695D9A025622D8 /* MRGDateFormatter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B07339F0B11BCC401F902D1B2AD67BDF /* MRGDateFormatter-dummy.m */; };
+		695A6E866526C4F2FAD115853EF0D5B3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		7A30C134D7EECFC1E2031F5DF350F5A7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		7F10DD9982702151E7596AC5C54B0D27 /* MRGDateFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 313271301CBB377CA3C479C1E5C010FA /* MRGDateFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		864B6C50740AD902888465C0F030775C /* Pods-MRGDateFormatter_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 94103B0BCA9BBCA3FC6A44BE0970BD8A /* Pods-MRGDateFormatter_Example-dummy.m */; };
+		CCDA91768C5844952B5FBDB11672990F /* MRGDateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = C8ED336E7037ED3A83204F67CB5F9F15 /* MRGDateFormatter.m */; };
+		DE70212226D9A1E86F1B7F95A7CD5EB4 /* Pods-MRGDateFormatter_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D4707C9593EE3169DBFDCD352DE271C3 /* Pods-MRGDateFormatter_Tests-dummy.m */; };
+		DF9C3A73E414D36401D07D0D5583F095 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		6159235E9D7B89EF0103BE53D2C6EABD /* PBXContainerItemProxy */ = {
+		50C28738026B13EEB25EF2CBCF1A0817 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2453D5C22115DBBA649D54623519ECB2;
+			remoteGlobalIDString = 37480B7DC9D0E9EE3B6B3CA49602CB89;
 			remoteInfo = MRGDateFormatter;
 		};
-		FC4DBC65D3B85229ED4AB1C8B72AB31A /* PBXContainerItemProxy */ = {
+		E44355B4199C4774C3A23857D8A5F34B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2453D5C22115DBBA649D54623519ECB2;
+			remoteGlobalIDString = 37480B7DC9D0E9EE3B6B3CA49602CB89;
 			remoteInfo = MRGDateFormatter;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		11566BCA8FF93023CF19BC44E56F29CF /* MRGDateFormatter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MRGDateFormatter-prefix.pch"; sourceTree = "<group>"; };
-		122CADE839873F0F5983F691D858B891 /* Pods-MRGDateFormatter_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MRGDateFormatter_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		181D770F88A06A88FEA9CAC5112D0515 /* Pods-MRGDateFormatter_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRGDateFormatter_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		1B61F2CB93B536726E021D3FE0E3A850 /* MRGDateFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MRGDateFormatter.h; sourceTree = "<group>"; };
-		4C9614780AFE81E6BDA065D8594CEBCE /* MRGDateFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MRGDateFormatter.m; sourceTree = "<group>"; };
-		51A0FCFCF73188A5E69941D91EB4C2B0 /* Pods-MRGDateFormatter_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MRGDateFormatter_Example-dummy.m"; sourceTree = "<group>"; };
-		524B195D2AF201E915CCAE03D6BBC2C7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		726A7BE0F2F613879399CCC278C41A2E /* Pods-MRGDateFormatter_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRGDateFormatter_Example.release.xcconfig"; sourceTree = "<group>"; };
-		7626097A4BCFAFB10261134A62FF56A4 /* Pods-MRGDateFormatter_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MRGDateFormatter_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		79D3388DB7FA0A3DAE1FDD3346D2170F /* libPods-MRGDateFormatter_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MRGDateFormatter_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7E8120C1D099BCC7748D467B3EF2D5F3 /* Pods-MRGDateFormatter_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MRGDateFormatter_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		85AA7460D694953154BE8D60F77DBA97 /* libMRGDateFormatter.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMRGDateFormatter.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		8834EFC161AC38DC774B453AA6156AC9 /* libPods-MRGDateFormatter_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MRGDateFormatter_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		941244756A588D230E02C1FE5D14C21E /* Pods-MRGDateFormatter_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRGDateFormatter_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		B20E9227608FCE3AB68E800EB1B12FBB /* Pods-MRGDateFormatter_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MRGDateFormatter_Tests-resources.sh"; sourceTree = "<group>"; };
-		B274EB21CF24E18DE570354B74C0B64F /* Pods-MRGDateFormatter_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRGDateFormatter_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		B711CF2CA33245E059E7B74EC2F4206A /* Pods-MRGDateFormatter_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MRGDateFormatter_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		04A357CD1A78A6657915424E854406B4 /* MRGDateFormatter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MRGDateFormatter-prefix.pch"; sourceTree = "<group>"; };
+		0C7D58D92E6FEFEB81FC2B58ED0AD053 /* MRGDateFormatter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MRGDateFormatter.xcconfig; sourceTree = "<group>"; };
+		2F678648DFB476F67CB4E2CCAAE7A8F1 /* Pods-MRGDateFormatter_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MRGDateFormatter_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		313271301CBB377CA3C479C1E5C010FA /* MRGDateFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MRGDateFormatter.h; sourceTree = "<group>"; };
+		31A88DD59CA747FDD51A6175B2328D99 /* Pods-MRGDateFormatter_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MRGDateFormatter_Tests-resources.sh"; sourceTree = "<group>"; };
+		3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		4AB466EE78A35D891F4C85B7F954AB69 /* Pods-MRGDateFormatter_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MRGDateFormatter_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		5FC9B7638B3F329A27407B10146866EB /* libPods-MRGDateFormatter_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MRGDateFormatter_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85E18DB8D3B1EFABBBD90AA082E44DE3 /* Pods-MRGDateFormatter_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRGDateFormatter_Example.release.xcconfig"; sourceTree = "<group>"; };
+		881DE500BCBE5049581795B553D751DB /* Pods-MRGDateFormatter_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MRGDateFormatter_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		94103B0BCA9BBCA3FC6A44BE0970BD8A /* Pods-MRGDateFormatter_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MRGDateFormatter_Example-dummy.m"; sourceTree = "<group>"; };
+		99AF5360E3C497FFBE45469E2093F20F /* libPods-MRGDateFormatter_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MRGDateFormatter_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B07339F0B11BCC401F902D1B2AD67BDF /* MRGDateFormatter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MRGDateFormatter-dummy.m"; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		C7A4415ECA20D7EF82FAD5335FD5592E /* MRGDateFormatter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MRGDateFormatter-dummy.m"; sourceTree = "<group>"; };
-		C9D451683A9A6CD0A980F72E9E9F5BB3 /* MRGDateFormatter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MRGDateFormatter.xcconfig; sourceTree = "<group>"; };
-		CAAB4450A7C085D9B5005C65E50DC765 /* MRGDateFormatter-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "MRGDateFormatter-Private.xcconfig"; sourceTree = "<group>"; };
-		DDB291578DD001AAA5185662D713345D /* Pods-MRGDateFormatter_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MRGDateFormatter_Example-resources.sh"; sourceTree = "<group>"; };
-		F9533247A2084DC53A763696540E17DB /* Pods-MRGDateFormatter_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MRGDateFormatter_Tests-dummy.m"; sourceTree = "<group>"; };
+		BCFFD342524618D2DAFC4424850869E5 /* Pods-MRGDateFormatter_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MRGDateFormatter_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		C8ED336E7037ED3A83204F67CB5F9F15 /* MRGDateFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MRGDateFormatter.m; sourceTree = "<group>"; };
+		CFF798F1F7DC05B1EBC1D4F475F77FF3 /* Pods-MRGDateFormatter_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MRGDateFormatter_Example-frameworks.sh"; sourceTree = "<group>"; };
+		D4707C9593EE3169DBFDCD352DE271C3 /* Pods-MRGDateFormatter_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MRGDateFormatter_Tests-dummy.m"; sourceTree = "<group>"; };
+		D8819A7DD5ED7C92980DFD50EDA1A556 /* Pods-MRGDateFormatter_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MRGDateFormatter_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		DEAC96701E14918FA1D1D00959EEC539 /* Pods-MRGDateFormatter_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MRGDateFormatter_Example-resources.sh"; sourceTree = "<group>"; };
+		EBD5CC5A31CB32C36A217FF02B8E4034 /* Pods-MRGDateFormatter_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRGDateFormatter_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		EEA6F67E29BABBB23F44A6EE7FA8AEEB /* Pods-MRGDateFormatter_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRGDateFormatter_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		F84DC379ACB665F338FC3DB9AE394FA3 /* libMRGDateFormatter.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMRGDateFormatter.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		F909AC42C9BCA821D47471DC350B2657 /* Pods-MRGDateFormatter_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MRGDateFormatter_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2A43D3763E6F2DC95A8F24FF7D3AC9A6 /* Frameworks */ = {
+		8C1C743E5AEB49F3B86B3F89A06E2D89 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1E42EC1A79864136D2070D6979692D7 /* Foundation.framework in Frameworks */,
+				7A30C134D7EECFC1E2031F5DF350F5A7 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6354C0802CF8CD72895B91E779AF282C /* Frameworks */ = {
+		8EFF1C633F03D699453C5417DA68DFEA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6448A00DB8CAA7C259F7C2167BB82A42 /* Foundation.framework in Frameworks */,
+				DF9C3A73E414D36401D07D0D5583F095 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E19E304741E546783FEDCD0DB6B8D8EC /* Frameworks */ = {
+		F158210B0CF7E413DF50E6D67F09FDA5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CC8B73E4C28DA5251B59C0539899FFA2 /* Foundation.framework in Frameworks */,
+				695A6E866526C4F2FAD115853EF0D5B3 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		53F661C0CA7190D2CF05023FB33D61E4 /* iOS */ = {
+		10E7905A91D8E355E34EFD5C812F8925 /* Pods-MRGDateFormatter_Example */ = {
 			isa = PBXGroup;
 			children = (
-				524B195D2AF201E915CCAE03D6BBC2C7 /* Foundation.framework */,
+				4AB466EE78A35D891F4C85B7F954AB69 /* Pods-MRGDateFormatter_Example-acknowledgements.markdown */,
+				881DE500BCBE5049581795B553D751DB /* Pods-MRGDateFormatter_Example-acknowledgements.plist */,
+				94103B0BCA9BBCA3FC6A44BE0970BD8A /* Pods-MRGDateFormatter_Example-dummy.m */,
+				CFF798F1F7DC05B1EBC1D4F475F77FF3 /* Pods-MRGDateFormatter_Example-frameworks.sh */,
+				DEAC96701E14918FA1D1D00959EEC539 /* Pods-MRGDateFormatter_Example-resources.sh */,
+				F909AC42C9BCA821D47471DC350B2657 /* Pods-MRGDateFormatter_Example.debug.xcconfig */,
+				85E18DB8D3B1EFABBBD90AA082E44DE3 /* Pods-MRGDateFormatter_Example.release.xcconfig */,
 			);
-			name = iOS;
+			name = "Pods-MRGDateFormatter_Example";
+			path = "Target Support Files/Pods-MRGDateFormatter_Example";
+			sourceTree = "<group>";
+		};
+		1745F589B708811A1A5457C12C842443 /* Pods-MRGDateFormatter_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				D8819A7DD5ED7C92980DFD50EDA1A556 /* Pods-MRGDateFormatter_Tests-acknowledgements.markdown */,
+				BCFFD342524618D2DAFC4424850869E5 /* Pods-MRGDateFormatter_Tests-acknowledgements.plist */,
+				D4707C9593EE3169DBFDCD352DE271C3 /* Pods-MRGDateFormatter_Tests-dummy.m */,
+				2F678648DFB476F67CB4E2CCAAE7A8F1 /* Pods-MRGDateFormatter_Tests-frameworks.sh */,
+				31A88DD59CA747FDD51A6175B2328D99 /* Pods-MRGDateFormatter_Tests-resources.sh */,
+				EEA6F67E29BABBB23F44A6EE7FA8AEEB /* Pods-MRGDateFormatter_Tests.debug.xcconfig */,
+				EBD5CC5A31CB32C36A217FF02B8E4034 /* Pods-MRGDateFormatter_Tests.release.xcconfig */,
+			);
+			name = "Pods-MRGDateFormatter_Tests";
+			path = "Target Support Files/Pods-MRGDateFormatter_Tests";
+			sourceTree = "<group>";
+		};
+		2DC76632E3A8E01133CB886F7FB20316 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				0C7D58D92E6FEFEB81FC2B58ED0AD053 /* MRGDateFormatter.xcconfig */,
+				B07339F0B11BCC401F902D1B2AD67BDF /* MRGDateFormatter-dummy.m */,
+				04A357CD1A78A6657915424E854406B4 /* MRGDateFormatter-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/MRGDateFormatter";
+			sourceTree = "<group>";
+		};
+		6F209049AF85C9DE473DAB0D2AC492D9 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				10E7905A91D8E355E34EFD5C812F8925 /* Pods-MRGDateFormatter_Example */,
+				1745F589B708811A1A5457C12C842443 /* Pods-MRGDateFormatter_Tests */,
+			);
+			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -102,134 +145,93 @@
 				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
 				82CAB15D0E2F53BECE2D841D42CA1128 /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				CCA510CFBEA2D207524CDA0D73C3B561 /* Products */,
-				9148B3FA0038E393D5F33C54685EBD9D /* Targets Support Files */,
+				9C29C7EA517593CB67E27C24E7DB6FC2 /* Products */,
+				6F209049AF85C9DE473DAB0D2AC492D9 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
 		82CAB15D0E2F53BECE2D841D42CA1128 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				8AD0D5F617FDDFA8A7923000416B22D0 /* MRGDateFormatter */,
+				EF2E5544B38A85DAF81430F8853F0F2F /* MRGDateFormatter */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		868B75652582E47F6C905AEB48C59D81 /* Pod */ = {
+		9C29C7EA517593CB67E27C24E7DB6FC2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DE9EF1B6D3CAA478CE1F02A1CF237C7B /* Classes */,
+				F84DC379ACB665F338FC3DB9AE394FA3 /* libMRGDateFormatter.a */,
+				99AF5360E3C497FFBE45469E2093F20F /* libPods-MRGDateFormatter_Example.a */,
+				5FC9B7638B3F329A27407B10146866EB /* libPods-MRGDateFormatter_Tests.a */,
 			);
-			path = Pod;
+			name = Products;
 			sourceTree = "<group>";
 		};
-		8AD0D5F617FDDFA8A7923000416B22D0 /* MRGDateFormatter */ = {
+		B0E02EB5F466F5F5DC0A5A76E2F9F4C4 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				868B75652582E47F6C905AEB48C59D81 /* Pod */,
-				E54C371F7763DBE12422A4992D0BB5CB /* Support Files */,
+				313271301CBB377CA3C479C1E5C010FA /* MRGDateFormatter.h */,
+				C8ED336E7037ED3A83204F67CB5F9F15 /* MRGDateFormatter.m */,
 			);
-			name = MRGDateFormatter;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		9148B3FA0038E393D5F33C54685EBD9D /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				DFAABC8515F52809613ABD2D18AE13D0 /* Pods-MRGDateFormatter_Example */,
-				CC05D7E5CC21CD11FE4F172E135E9887 /* Pods-MRGDateFormatter_Tests */,
-			);
-			name = "Targets Support Files";
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				53F661C0CA7190D2CF05023FB33D61E4 /* iOS */,
+				BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		CC05D7E5CC21CD11FE4F172E135E9887 /* Pods-MRGDateFormatter_Tests */ = {
+		BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				7E8120C1D099BCC7748D467B3EF2D5F3 /* Pods-MRGDateFormatter_Tests-acknowledgements.markdown */,
-				7626097A4BCFAFB10261134A62FF56A4 /* Pods-MRGDateFormatter_Tests-acknowledgements.plist */,
-				F9533247A2084DC53A763696540E17DB /* Pods-MRGDateFormatter_Tests-dummy.m */,
-				B20E9227608FCE3AB68E800EB1B12FBB /* Pods-MRGDateFormatter_Tests-resources.sh */,
-				B274EB21CF24E18DE570354B74C0B64F /* Pods-MRGDateFormatter_Tests.debug.xcconfig */,
-				181D770F88A06A88FEA9CAC5112D0515 /* Pods-MRGDateFormatter_Tests.release.xcconfig */,
+				3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */,
 			);
-			name = "Pods-MRGDateFormatter_Tests";
-			path = "Target Support Files/Pods-MRGDateFormatter_Tests";
+			name = iOS;
 			sourceTree = "<group>";
 		};
-		CCA510CFBEA2D207524CDA0D73C3B561 /* Products */ = {
+		CAB17449FFA9B7249B16167D74477920 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				85AA7460D694953154BE8D60F77DBA97 /* libMRGDateFormatter.a */,
-				79D3388DB7FA0A3DAE1FDD3346D2170F /* libPods-MRGDateFormatter_Example.a */,
-				8834EFC161AC38DC774B453AA6156AC9 /* libPods-MRGDateFormatter_Tests.a */,
+				B0E02EB5F466F5F5DC0A5A76E2F9F4C4 /* Classes */,
 			);
-			name = Products;
+			path = Pod;
 			sourceTree = "<group>";
 		};
-		DE9EF1B6D3CAA478CE1F02A1CF237C7B /* Classes */ = {
+		EF2E5544B38A85DAF81430F8853F0F2F /* MRGDateFormatter */ = {
 			isa = PBXGroup;
 			children = (
-				1B61F2CB93B536726E021D3FE0E3A850 /* MRGDateFormatter.h */,
-				4C9614780AFE81E6BDA065D8594CEBCE /* MRGDateFormatter.m */,
+				CAB17449FFA9B7249B16167D74477920 /* Pod */,
+				2DC76632E3A8E01133CB886F7FB20316 /* Support Files */,
 			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		DFAABC8515F52809613ABD2D18AE13D0 /* Pods-MRGDateFormatter_Example */ = {
-			isa = PBXGroup;
-			children = (
-				122CADE839873F0F5983F691D858B891 /* Pods-MRGDateFormatter_Example-acknowledgements.markdown */,
-				B711CF2CA33245E059E7B74EC2F4206A /* Pods-MRGDateFormatter_Example-acknowledgements.plist */,
-				51A0FCFCF73188A5E69941D91EB4C2B0 /* Pods-MRGDateFormatter_Example-dummy.m */,
-				DDB291578DD001AAA5185662D713345D /* Pods-MRGDateFormatter_Example-resources.sh */,
-				941244756A588D230E02C1FE5D14C21E /* Pods-MRGDateFormatter_Example.debug.xcconfig */,
-				726A7BE0F2F613879399CCC278C41A2E /* Pods-MRGDateFormatter_Example.release.xcconfig */,
-			);
-			name = "Pods-MRGDateFormatter_Example";
-			path = "Target Support Files/Pods-MRGDateFormatter_Example";
-			sourceTree = "<group>";
-		};
-		E54C371F7763DBE12422A4992D0BB5CB /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				C9D451683A9A6CD0A980F72E9E9F5BB3 /* MRGDateFormatter.xcconfig */,
-				CAAB4450A7C085D9B5005C65E50DC765 /* MRGDateFormatter-Private.xcconfig */,
-				C7A4415ECA20D7EF82FAD5335FD5592E /* MRGDateFormatter-dummy.m */,
-				11566BCA8FF93023CF19BC44E56F29CF /* MRGDateFormatter-prefix.pch */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/MRGDateFormatter";
+			name = MRGDateFormatter;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		8F3CDB46735641635EB2AEFEF1BB876F /* Headers */ = {
+		5060A01522E227CC1A56C7E270B93A53 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D42A6C66581237E90047E2BB70490361 /* MRGDateFormatter.h in Headers */,
+				7F10DD9982702151E7596AC5C54B0D27 /* MRGDateFormatter.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		2453D5C22115DBBA649D54623519ECB2 /* MRGDateFormatter */ = {
+		37480B7DC9D0E9EE3B6B3CA49602CB89 /* MRGDateFormatter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F687996C11D8C131991995FA826F0381 /* Build configuration list for PBXNativeTarget "MRGDateFormatter" */;
+			buildConfigurationList = AAAFC511C7D9E034968B2291992C5D48 /* Build configuration list for PBXNativeTarget "MRGDateFormatter" */;
 			buildPhases = (
-				627393C898647F69CBAECD5AA103D655 /* Sources */,
-				E19E304741E546783FEDCD0DB6B8D8EC /* Frameworks */,
-				8F3CDB46735641635EB2AEFEF1BB876F /* Headers */,
+				E1E19A387619EFA5626D0915A3D9127B /* Sources */,
+				8C1C743E5AEB49F3B86B3F89A06E2D89 /* Frameworks */,
+				5060A01522E227CC1A56C7E270B93A53 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -237,41 +239,41 @@
 			);
 			name = MRGDateFormatter;
 			productName = MRGDateFormatter;
-			productReference = 85AA7460D694953154BE8D60F77DBA97 /* libMRGDateFormatter.a */;
+			productReference = F84DC379ACB665F338FC3DB9AE394FA3 /* libMRGDateFormatter.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		E44DEA27105950031B32880A59D73C7A /* Pods-MRGDateFormatter_Tests */ = {
+		70060B51E1A781EEA6D8695127C55216 /* Pods-MRGDateFormatter_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F959BE59F9829B9D50B70262F464D15B /* Build configuration list for PBXNativeTarget "Pods-MRGDateFormatter_Tests" */;
+			buildConfigurationList = D0522E821F426DE7D4CB887F59268AD2 /* Build configuration list for PBXNativeTarget "Pods-MRGDateFormatter_Tests" */;
 			buildPhases = (
-				A2D0320CC72B08320622B608BA1B2AC8 /* Sources */,
-				6354C0802CF8CD72895B91E779AF282C /* Frameworks */,
+				3CF1634E3ECC8DDA9F75C6093EFF975F /* Sources */,
+				F158210B0CF7E413DF50E6D67F09FDA5 /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				0325EA42BD4D54D73C0E5B5DD2C706BC /* PBXTargetDependency */,
+				E7B44F18DE09CECFDF93F94033901BAA /* PBXTargetDependency */,
 			);
 			name = "Pods-MRGDateFormatter_Tests";
 			productName = "Pods-MRGDateFormatter_Tests";
-			productReference = 8834EFC161AC38DC774B453AA6156AC9 /* libPods-MRGDateFormatter_Tests.a */;
+			productReference = 5FC9B7638B3F329A27407B10146866EB /* libPods-MRGDateFormatter_Tests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		EDF05AD8A2BE50B66221E0BF2D422DD4 /* Pods-MRGDateFormatter_Example */ = {
+		93A062F893D96602CA9690B4021074A0 /* Pods-MRGDateFormatter_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7F937A4AEFBDF1EEA12F02B4A60355A6 /* Build configuration list for PBXNativeTarget "Pods-MRGDateFormatter_Example" */;
+			buildConfigurationList = D47EE812C1CB0D9347FD190C82F9CB66 /* Build configuration list for PBXNativeTarget "Pods-MRGDateFormatter_Example" */;
 			buildPhases = (
-				189BE9DA838CE7DCCF4E104D0C62DF9B /* Sources */,
-				2A43D3763E6F2DC95A8F24FF7D3AC9A6 /* Frameworks */,
+				6249384EC67747045E891A4EB182B3E7 /* Sources */,
+				8EFF1C633F03D699453C5417DA68DFEA /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A1AB5BC02158FC0AABB5B412A428D688 /* PBXTargetDependency */,
+				1DD501B46BED08CB660213892EB79158 /* PBXTargetDependency */,
 			);
 			name = "Pods-MRGDateFormatter_Example";
 			productName = "Pods-MRGDateFormatter_Example";
-			productReference = 79D3388DB7FA0A3DAE1FDD3346D2170F /* libPods-MRGDateFormatter_Example.a */;
+			productReference = 99AF5360E3C497FFBE45469E2093F20F /* libPods-MRGDateFormatter_Example.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -291,57 +293,57 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = CCA510CFBEA2D207524CDA0D73C3B561 /* Products */;
+			productRefGroup = 9C29C7EA517593CB67E27C24E7DB6FC2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2453D5C22115DBBA649D54623519ECB2 /* MRGDateFormatter */,
-				EDF05AD8A2BE50B66221E0BF2D422DD4 /* Pods-MRGDateFormatter_Example */,
-				E44DEA27105950031B32880A59D73C7A /* Pods-MRGDateFormatter_Tests */,
+				37480B7DC9D0E9EE3B6B3CA49602CB89 /* MRGDateFormatter */,
+				93A062F893D96602CA9690B4021074A0 /* Pods-MRGDateFormatter_Example */,
+				70060B51E1A781EEA6D8695127C55216 /* Pods-MRGDateFormatter_Tests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		189BE9DA838CE7DCCF4E104D0C62DF9B /* Sources */ = {
+		3CF1634E3ECC8DDA9F75C6093EFF975F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				81CCCA6457DC2480C620A68E9A3BE461 /* Pods-MRGDateFormatter_Example-dummy.m in Sources */,
+				DE70212226D9A1E86F1B7F95A7CD5EB4 /* Pods-MRGDateFormatter_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		627393C898647F69CBAECD5AA103D655 /* Sources */ = {
+		6249384EC67747045E891A4EB182B3E7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37152A2C298972E886B7282A7F1D9D8B /* MRGDateFormatter-dummy.m in Sources */,
-				3169D113E2558D19739BA13B88C60127 /* MRGDateFormatter.m in Sources */,
+				864B6C50740AD902888465C0F030775C /* Pods-MRGDateFormatter_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A2D0320CC72B08320622B608BA1B2AC8 /* Sources */ = {
+		E1E19A387619EFA5626D0915A3D9127B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				59492E0EED9AE7C9303691B4D6EFA052 /* Pods-MRGDateFormatter_Tests-dummy.m in Sources */,
+				5D3F993D5FE1714EAD695D9A025622D8 /* MRGDateFormatter-dummy.m in Sources */,
+				CCDA91768C5844952B5FBDB11672990F /* MRGDateFormatter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0325EA42BD4D54D73C0E5B5DD2C706BC /* PBXTargetDependency */ = {
+		1DD501B46BED08CB660213892EB79158 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MRGDateFormatter;
-			target = 2453D5C22115DBBA649D54623519ECB2 /* MRGDateFormatter */;
-			targetProxy = FC4DBC65D3B85229ED4AB1C8B72AB31A /* PBXContainerItemProxy */;
+			target = 37480B7DC9D0E9EE3B6B3CA49602CB89 /* MRGDateFormatter */;
+			targetProxy = 50C28738026B13EEB25EF2CBCF1A0817 /* PBXContainerItemProxy */;
 		};
-		A1AB5BC02158FC0AABB5B412A428D688 /* PBXTargetDependency */ = {
+		E7B44F18DE09CECFDF93F94033901BAA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MRGDateFormatter;
-			target = 2453D5C22115DBBA649D54623519ECB2 /* MRGDateFormatter */;
-			targetProxy = 6159235E9D7B89EF0103BE53D2C6EABD /* PBXContainerItemProxy */;
+			target = 37480B7DC9D0E9EE3B6B3CA49602CB89 /* MRGDateFormatter */;
+			targetProxy = E44355B4199C4774C3A23857D8A5F34B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -419,9 +421,26 @@
 			};
 			name = Debug;
 		};
-		266A5C3A8B77AD62BF67505562C31227 /* Release */ = {
+		29C3997CAC924BDC2258B1045C7F3892 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CAAB4450A7C085D9B5005C65E50DC765 /* MRGDateFormatter-Private.xcconfig */;
+			baseConfigurationReference = 85E18DB8D3B1EFABBBD90AA082E44DE3 /* Pods-MRGDateFormatter_Example.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		57FD5D0459449F4C5AA19FCFF430BF2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C7D58D92E6FEFEB81FC2B58ED0AD053 /* MRGDateFormatter.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/MRGDateFormatter/MRGDateFormatter-prefix.pch";
@@ -429,18 +448,21 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
-		58E9A7539A373D2F3BEC8C465220C02D /* Debug */ = {
+		8D77FCE96A4C7BF89AD2170AA4E30CAD /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 941244756A588D230E02C1FE5D14C21E /* Pods-MRGDateFormatter_Example.debug.xcconfig */;
+			baseConfigurationReference = EEA6F67E29BABBB23F44A6EE7FA8AEEB /* Pods-MRGDateFormatter_Tests.debug.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MACH_O_TYPE = staticlib;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -451,44 +473,13 @@
 			};
 			name = Debug;
 		};
-		BB4E021FAAEA6131AAB250DB6D214B26 /* Release */ = {
+		9D813596FE23D203B298B68B17DE01FD /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 726A7BE0F2F613879399CCC278C41A2E /* Pods-MRGDateFormatter_Example.release.xcconfig */;
+			baseConfigurationReference = F909AC42C9BCA821D47471DC350B2657 /* Pods-MRGDateFormatter_Example.debug.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		BF69D2779951C5E84270F4BAC9D6B585 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 181D770F88A06A88FEA9CAC5112D0515 /* Pods-MRGDateFormatter_Tests.release.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		D9EC7A6EF29A5D33CE113B0DC0C7C031 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B274EB21CF24E18DE570354B74C0B64F /* Pods-MRGDateFormatter_Tests.debug.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MACH_O_TYPE = staticlib;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -499,9 +490,26 @@
 			};
 			name = Debug;
 		};
-		E82416F5FC79012CC52127847CFB4EA3 /* Debug */ = {
+		B4B960F8EEC688CB7B98CFDC5ABB427E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CAAB4450A7C085D9B5005C65E50DC765 /* MRGDateFormatter-Private.xcconfig */;
+			baseConfigurationReference = EBD5CC5A31CB32C36A217FF02B8E4034 /* Pods-MRGDateFormatter_Tests.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		D337A5529B84805B0C2B3E4622505E3F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C7D58D92E6FEFEB81FC2B58ED0AD053 /* MRGDateFormatter.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/MRGDateFormatter/MRGDateFormatter-prefix.pch";
@@ -509,7 +517,9 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
@@ -527,29 +537,29 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7F937A4AEFBDF1EEA12F02B4A60355A6 /* Build configuration list for PBXNativeTarget "Pods-MRGDateFormatter_Example" */ = {
+		AAAFC511C7D9E034968B2291992C5D48 /* Build configuration list for PBXNativeTarget "MRGDateFormatter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				58E9A7539A373D2F3BEC8C465220C02D /* Debug */,
-				BB4E021FAAEA6131AAB250DB6D214B26 /* Release */,
+				D337A5529B84805B0C2B3E4622505E3F /* Debug */,
+				57FD5D0459449F4C5AA19FCFF430BF2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F687996C11D8C131991995FA826F0381 /* Build configuration list for PBXNativeTarget "MRGDateFormatter" */ = {
+		D0522E821F426DE7D4CB887F59268AD2 /* Build configuration list for PBXNativeTarget "Pods-MRGDateFormatter_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E82416F5FC79012CC52127847CFB4EA3 /* Debug */,
-				266A5C3A8B77AD62BF67505562C31227 /* Release */,
+				8D77FCE96A4C7BF89AD2170AA4E30CAD /* Debug */,
+				B4B960F8EEC688CB7B98CFDC5ABB427E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F959BE59F9829B9D50B70262F464D15B /* Build configuration list for PBXNativeTarget "Pods-MRGDateFormatter_Tests" */ = {
+		D47EE812C1CB0D9347FD190C82F9CB66 /* Build configuration list for PBXNativeTarget "Pods-MRGDateFormatter_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D9EC7A6EF29A5D33CE113B0DC0C7C031 /* Debug */,
-				BF69D2779951C5E84270F4BAC9D6B585 /* Release */,
+				9D813596FE23D203B298B68B17DE01FD /* Debug */,
+				29C3997CAC924BDC2258B1045C7F3892 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

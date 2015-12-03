@@ -1,6 +1,6 @@
 {
   "name": "MRGDateFormatter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "NSDateFormatter subclass that react to locale changes by calling a configure block.",
   "homepage": "https://github.com/Mirego/MRGDateFormatter",
   "license": "BSD 3-Clause",
@@ -9,11 +9,14 @@
   },
   "source": {
     "git": "https://github.com/Mirego/MRGDateFormatter.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "social_media_url": "https://twitter.com/Mirego",
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "osx": "10.9",
+    "watchos": "2.0",
+    "tvos": "9.0"
   },
   "requires_arc": true,
   "source_files": "Pod/Classes"

@@ -1,5 +1,5 @@
 PODS:
-  - MRGDateFormatter (0.1.0)
+  - MRGDateFormatter (0.1.1)
 
 DEPENDENCIES:
   - MRGDateFormatter (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MRGDateFormatter: 5a055e160ba309271075a395654b0632c9f8bcb7
+  MRGDateFormatter: c23c1d24b7e40f057a62046e27e06579b7e75d22
 
-COCOAPODS: 0.38.2
+COCOAPODS: 0.39.0

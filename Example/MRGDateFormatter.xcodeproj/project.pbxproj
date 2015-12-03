@@ -205,6 +205,7 @@
 				6003F587195388D20070C39A /* Frameworks */,
 				6003F588195388D20070C39A /* Resources */,
 				3E83DF402C105EE8DF1ABB06 /* Copy Pods Resources */,
+				2A516622DF4C6EFA4B9EF54E /* Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -224,6 +225,7 @@
 				6003F5AB195388D20070C39A /* Frameworks */,
 				6003F5AC195388D20070C39A /* Resources */,
 				8D44523F1749BDE25363DCE5 /* Copy Pods Resources */,
+				1BF5712B52976703F93F3ADE /* Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -243,7 +245,7 @@
 			attributes = {
 				CLASSPREFIX = MRG;
 				LastUpgradeCheck = 0700;
-				ORGANIZATIONNAME = "Mirego";
+				ORGANIZATIONNAME = Mirego;
 				TargetAttributes = {
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
@@ -291,6 +293,36 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		1BF5712B52976703F93F3ADE /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MRGDateFormatter_Tests/Pods-MRGDateFormatter_Tests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2A516622DF4C6EFA4B9EF54E /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MRGDateFormatter_Example/Pods-MRGDateFormatter_Example-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		3E83DF402C105EE8DF1ABB06 /* Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
